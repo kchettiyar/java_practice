@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kchetty.customStarter.config.helloServiceAutoConfiguration
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kchetty.customStarter.idpConfig.DefaultIdpConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kchetty.customStarter.idpConfig.KeycloakConfig
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kchetty.customStarter.idpConfig.OktaConfig

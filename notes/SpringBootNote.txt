@@ -1,0 +1,91 @@
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Spring Boot
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Dependency Injection
+=> Autowired
+=> @Controller, @Service, @Repository are part/ of @Component
+=> JPA
+=> Hibernet
+=> Maven
+
+=> Dependency Injection and Autowired
+=> Auto Configuration
+=> Relaxed Binding and @Configuration.properties (https://www.youtube.com/watch?v=p0SaPppQcco)
+=> DevTools (https://www.youtube.com/watch?v=6v5gfxH7ABo)
+=> Unit Testing(https://www.youtube.com/watch?v=RbZvXCAtMushttps://www.youtube.com/watch?v=RbZvXCAtMus)
+=> Actuator	()
+=> Profile
+
+
+https://www.baeldung.com/spring-boot-interview-questions
+https://reflectoring.io/spring-boot-conditionals/
+
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.kchetty.customStarter.CustomStarterApplication
+
+profile
+https://www.youtube.com/watch?v=P91tqdWUHE4
+
+
+https://www.youtube.com/watch?v=upoIwn4rWCo&list=PLqq-6Pq4lTTaoaVoQVfRJPqvNTCjcTvJB&index=1
+https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE&index=1
+https://www.youtube.com/watch?v=o8RO38KbWvA&list=PLqq-6Pq4lTTbXZY_elyGv7IkKrfkSrX5e
+
+oppps end at 8.07.00
+https://www.youtube.com/watch?v=5NQjLBuNL0I
+
+
+at 0.34.00
+https://www.youtube.com/watch?v=4U9FUlpvg_U&list=PLd3UqWTnYXOnXVr_jkhQL_zsXgWyRw8hl&index=89
+
+Data structure
+https://www.youtube.com/watch?v=DQmG7OKVqhM&list=PLs9UA9mWAzDAN6Yh9Eo8PrRx3o5rkIEWW&index=14
+
+By Duaga
+https://www.youtube.com/watch?v=rI3VkItC0eA&list=PLd3UqWTnYXOkVR3OR9UZGyEt9RFUbaTMZ
+
+
+https://onlinechallenge.withgoogle.com/goctc05_in_tsc/unit?unit=1
+GOCTC05: Google's Online Challenge IN 2021 Cloud TSC
+581274111209
+
+interview-questions
+https://www.youtube.com/watch?v=BgeJFX0GHxI
+
+kamlesh.chetty.07@gmail.com
+Kchetty@123
+
+https://www.youtube.com/watch?v=c214TXW7JRI
+
+
+https://py-googletrans.readthedocs.io/en/latest/
+https://pypi.org/project/googletrans/#history
+
+
+
+https://st1-dev-vnext.tmbmarble.com/phenom-studio-ui
+catalog_admin/catalog
+
+
+https://st1-dev-vnext.tmbmarble.com/phenom-automation
+omuiadmin/12345
+
+
+"@angular-material-components/datetime-picker": "^2.0.4",
+"angular-mgl-timeline": "^0.3.0",
+"@ngmodule/material-carousel": "^0.6.0",
+"ngx-mat-datetime-picker": "^2.0.3",
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Java
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Java basic
+=> OPPs concept in java
+=> 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Next
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
